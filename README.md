@@ -7,6 +7,8 @@
 
 Tento repozitář obsahuje mé vývojové a testovací prostředí pro učení Odoo ERP pomocí Dockeru. Slouží jako praktický "můstek" mezi mou dlouholetou praxí v průmyslové výrobě (lakovna) a světem podnikového softwaru.
 
+> 💤 **Stav (říjen 2026):** Vývoj tohoto učebního prostředí je nyní pozastaven, téma Odoo/ERP však nepovažuji za uzavřené. Repozitář zůstává zachován jako výchozí bod pro případný návrat k učení, a to i formou práce bez grafického rozhraní.
+
 ## 🔧 Požadavky
 - **Docker Compose** (izolované prostředí)
 - **Python 3.10+** (pro vývoj modulů a lokální skriptování přes Odoo ORM)
